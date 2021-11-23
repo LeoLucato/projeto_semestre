@@ -1,6 +1,6 @@
 # PROJETO PRÁTICO EM SISTEMAS
   
-  Uninove - CURSO DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+  Uninove - Curso: TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
 
 # Grupo
 
@@ -18,4 +18,5 @@
 # Descrição
 
 - Projeto de um Sex Shop;
-- Link do site: http://23.100.29.56/index.php
+- O site se trata de um e-commerce;
+- Link do site: http://23.100.29.56/index.php;
