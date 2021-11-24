@@ -1,6 +1,7 @@
 # PROJETO PRÁTICO EM SISTEMAS
   
   Uninove - Curso: TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+  - Nome do projeto: UniSexy 
   - Link do site: http://23.100.29.56/index.php;
 
 # Grupo
@@ -18,5 +19,5 @@
 
 # Descrição
 
-- Projeto de um Sex Shop;
+- Construção de um Sex Shop;
 - O site se trata de um e-commerce;
